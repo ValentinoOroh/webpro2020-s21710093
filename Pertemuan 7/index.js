@@ -59,3 +59,4 @@ switch (Role) {
 }
 
 console.log(Hero);
+
