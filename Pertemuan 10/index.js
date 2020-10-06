@@ -20,13 +20,13 @@ console.log(nama);
 //}
 //console.log(i)
 
-6
-{
-    let i;
-    for(i = 0; i<10;i++){
-        console.log(i)
-    }
-}
+// 6
+// {
+//     let i;
+//     for(i = 0; i<10;i++){
+//         console.log(i)
+//     }
+// }
 
 const person = {
     nick: "Andi",
