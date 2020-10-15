@@ -14,7 +14,7 @@
 // const hitungRest = (...angka) =>{
 //     let total=0;
 //     angka.forEach((el)=>{
-//         total += el
+//         total += el 
 //     })
 //     return total;
 // }
